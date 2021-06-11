@@ -7,7 +7,7 @@
 ### What is where?
 The folder structure is given below:
 
-![](images/image2.png)
+![](images/image1.png)
 
 As you can see there are three main code files when you log in:
 
